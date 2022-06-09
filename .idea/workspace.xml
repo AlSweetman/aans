@@ -4,40 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d6b24f5-6c1d-46e1-9f6c-59cd764f49e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.themea9a1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AANS Coronavirus Flow Chart-2.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AANS Manager Job Description 2021 (4).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AANS_Application_Form.docxv1 (2).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AANS_volunteering_as_a_charity_trustee_2017.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advert_Manager_June_2021 [Rev2] (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covid-19 Policy and Procedures Sept 2020 rev 4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covid-19 User agreement Sept 2020 pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Feb2021 Newsletter rev1 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May2021bulletin-ParentsPage.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parent prospectus with CV19 updates rev 3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Settling in during Coronavirus Sept 2020.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aans website.cpf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aans.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/approachtolearning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beacon.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/covid-19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fade.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hts-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openinghours.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/policies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering_as_a_charity_trustee_2017.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work-for-us.html" afterDir="false" />
+    <list default="true" id="6d6b24f5-6c1d-46e1-9f6c-59cd764f49e3" name="Changes" comment="Initial commit, removing covid-19, updating newsletter, removing job advert for manager. See commented out code.">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +43,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654803466666</updated>
-      <workItem from="1654803468798" duration="3549000" />
+      <workItem from="1654803468798" duration="3893000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit, removing covid-19, updating newsletter, removing job advert for manager. See commented out code.">
+      <created>1654807367356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654807367356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +68,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial commit, removing covid-19, updating newsletter, removing job advert for manager. See commented out code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit, removing covid-19, updating newsletter, removing job advert for manager. See commented out code." />
   </component>
 </project>
